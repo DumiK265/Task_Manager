@@ -1,0 +1,6 @@
+dumie
+Name: dumie
+Address :Lilongwe
+Age :
+TASK 1 :Write easy
+TARGET 1 :by 26 Aug 22
